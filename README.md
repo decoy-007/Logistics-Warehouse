@@ -139,13 +139,6 @@ Project Outcome
 
 This project demonstrates how SQL can be used to transform raw logistics data into actionable business insights. The analysis supports inventory optimization, warehouse performance improvement, and proactive supply chain decision-making.
 
-The techniques used in this project are directly applicable to roles such as:
-
- Data Analyst
- Supply Chain Analyst
- Operations Analyst
- Inventory Analyst
- Business Intelligence Analyst
 
 ---
 
